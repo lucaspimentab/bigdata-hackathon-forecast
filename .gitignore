@@ -1,1 +1,29 @@
-eda_out/*.csv
+# Python cache / builds
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Ambientes
+.venv/
+venv/
+env/
+.env
+.python-version
+
+# Dados e artefatos volumosos
+data/
+outputs/
+eda_out/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# Notebook / OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

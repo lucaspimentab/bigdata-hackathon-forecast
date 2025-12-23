@@ -16,7 +16,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # =========================
-# CONFIGURAÇÃO (edite aqui)
+# CONFIGURAÇÃO 
 # =========================
 TRANSACTIONS_PATH = "data/part-00000-tid-5196563791502273604-c90d3a24-52f2-4955-b4ec-fb143aae74d8-4-1-c000.snappy.parquet"
 PRODUCTS_PATH     = "data/part-00000-tid-7173294866425216458-eae53fbf-d19e-4130-ba74-78f96b9675f1-4-1-c000.snappy.parquet"
